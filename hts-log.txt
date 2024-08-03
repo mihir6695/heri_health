@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 28 Jul 2024 23:22:20 at http://223.31.103.204/HeritageSMSClaimView/?CCN=HH552500876&INS=NIA&ISQUERY=N +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://223.31.103.204/HeritageSMSClaimView/?CCN=HH552500876&INS=NIA&ISQUERY=N -O1 "C:\My Web Sites\Demo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:22:30	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/PrettyPhot/css/prettyPhoto.css (from 223.31.103.204/HeritageSMSClaimView/?CCN=HH552500876&INS=NIA&ISQUERY=N)
+23:22:30	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/js/jquery-1.11.0.min.js (from 223.31.103.204/HeritageSMSClaimView/?CCN=HH552500876&INS=NIA&ISQUERY=N)
+23:22:30	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/~/jQdataTable/js/jquery.dataTables.js (from 223.31.103.204/HeritageSMSClaimView/?CCN=HH552500876&INS=NIA&ISQUERY=N)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/js/jquery.easing.1.3.js (from 223.31.103.204/HeritageSMSClaimView/?CCN=HH552500876&INS=NIA&ISQUERY=N)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/js/bootstrap.min.js (from 223.31.103.204/HeritageSMSClaimView/?CCN=HH552500876&INS=NIA&ISQUERY=N)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/fonts/fontawesome-webfont.eot?v=4.0.3 (from 223.31.103.204/HeritageSMSClaimView/css/font-awesome.css)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/fonts/fontawesome-webfont.eot? (from 223.31.103.204/HeritageSMSClaimView/css/font-awesome.css)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/fonts/fontawesome-webfont.woff?v=4.0.3 (from 223.31.103.204/HeritageSMSClaimView/css/font-awesome.css)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/fonts/fontawesome-webfont.ttf?v=4.0.3 (from 223.31.103.204/HeritageSMSClaimView/css/font-awesome.css)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/fonts/fontawesome-webfont.svg?v=4.0.3 (from 223.31.103.204/HeritageSMSClaimView/css/font-awesome.css)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/images/arrow-down.png (from 223.31.103.204/HeritageSMSClaimView/css/style.css)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/POST (from 223.31.103.204/HeritageSMSClaimView/WebResource.axd?d=pZT_EvFNW3-OR03P4GgJnjzcBavXe660vtnjCVgfAJdyslrA9uL0-5PUNF06jUOGVZzP-C6LxDd1Sr6ha8nO90UvUlkIoh5Jm6SnBHKIrTs1&t=635588816815688065)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/Firefox/ (from 223.31.103.204/HeritageSMSClaimView/ScriptResource.axd?d=68C2rdLhjkQTI1UGULXPg52h9nGjxQ5F3bPZVHg8Mls6QV9bCjtvcQzYVsQI1D8jC_8Miz1STJ6FzTRb6Xpd8bFug3Q3xYZPScsg08GMdA97UB7MYy2kreADZUvMcP4MAbrtRqEQNd294ict5V1vRHCuDLPzpAkfiejNwwpi1HC06ahYtNd-B2c0SInUo7Hc0&t=ffffffff805766b3)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/AppleWebKit/ (from 223.31.103.204/HeritageSMSClaimView/ScriptResource.axd?d=68C2rdLhjkQTI1UGULXPg52h9nGjxQ5F3bPZVHg8Mls6QV9bCjtvcQzYVsQI1D8jC_8Miz1STJ6FzTRb6Xpd8bFug3Q3xYZPScsg08GMdA97UB7MYy2kreADZUvMcP4MAbrtRqEQNd294ict5V1vRHCuDLPzpAkfiejNwwpi1HC06ahYtNd-B2c0SInUo7Hc0&t=ffffffff805766b3)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/Opera/ (from 223.31.103.204/HeritageSMSClaimView/ScriptResource.axd?d=68C2rdLhjkQTI1UGULXPg52h9nGjxQ5F3bPZVHg8Mls6QV9bCjtvcQzYVsQI1D8jC_8Miz1STJ6FzTRb6Xpd8bFug3Q3xYZPScsg08GMdA97UB7MYy2kreADZUvMcP4MAbrtRqEQNd294ict5V1vRHCuDLPzpAkfiejNwwpi1HC06ahYtNd-B2c0SInUo7Hc0&t=ffffffff805766b3)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/MicrosoftAjaxWebForms.js (from 223.31.103.204/HeritageSMSClaimView/ScriptResource.axd?d=fFpw8zR6tSXx2croGNncVFeDkWLk20RJTcBwduama8wGMDVLmXDvzqvGUQ26mfJ11waKZBM-DJZc_NyOjboROWuyxlzOFS_QVCgtP4auv_FMBd_1h8pPjyXmzZSek1mqG50MI4Liun2OS0liO30Db8Ka-8YmrfjvLWiOdeBpwTncWdeuFf-gw5iHYFVpG_7P0&t=ffffffff805766b3)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/MicrosoftAjaxSerialization.js (from 223.31.103.204/HeritageSMSClaimView/ScriptResource.axd?d=fFpw8zR6tSXx2croGNncVFeDkWLk20RJTcBwduama8wGMDVLmXDvzqvGUQ26mfJ11waKZBM-DJZc_NyOjboROWuyxlzOFS_QVCgtP4auv_FMBd_1h8pPjyXmzZSek1mqG50MI4Liun2OS0liO30Db8Ka-8YmrfjvLWiOdeBpwTncWdeuFf-gw5iHYFVpG_7P0&t=ffffffff805766b3)
+23:22:32	Error: 	"Not Found" (404) at link 223.31.103.204/HeritageSMSClaimView/MicrosoftAjaxNetwork.js (from 223.31.103.204/HeritageSMSClaimView/ScriptResource.axd?d=fFpw8zR6tSXx2croGNncVFeDkWLk20RJTcBwduama8wGMDVLmXDvzqvGUQ26mfJ11waKZBM-DJZc_NyOjboROWuyxlzOFS_QVCgtP4auv_FMBd_1h8pPjyXmzZSek1mqG50MI4Liun2OS0liO30Db8Ka-8YmrfjvLWiOdeBpwTncWdeuFf-gw5iHYFVpG_7P0&t=ffffffff805766b3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 35 links scanned, 16 files written (666144 bytes overall) [335634 bytes received at 27969 bytes/sec], 432484 bytes transferred using HTTP compression in 6 files, ratio 15%, 1.0 requests per connection
+(18 errors, 0 warnings, 0 messages)
